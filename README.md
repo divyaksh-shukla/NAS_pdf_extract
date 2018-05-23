@@ -9,3 +9,6 @@ Followed by
 $ python3 pdf_extract_2.py
 ```
 `pdf_extract.py` is my first version that did not take the names of the states perfectly, `pdf_extract_2.py` is an improvement over the prior to take all the data perfectly.
+### Blog Link
+Check out the total description of my project on my blog : 
+https://divtechexp.blogspot.in/2018/05/nas-national-achivement-survey-data.html
